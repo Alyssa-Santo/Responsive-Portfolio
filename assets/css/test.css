@@ -1,0 +1,54 @@
+@media screen and (max-width: 479px) {
+     /* start of phone styles */
+
+body {
+	width: 100%;
+
+}
+
+#centerbox{
+		width: 100%;
+}
+
+#connect{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-top: 5px;
+
+}
+
+#navnames {
+	top: 85px;
+	right: 0px;
+}
+
+.footer{
+	width: 100%;
+	margin-top: 650px;
+	height: 15px;
+}
+
+.image {
+	margin-left: auto;
+    margin-right: auto;
+}
+}
+
+
+				<div class=grid>
+					<h4> Hangman </h4>
+					<img class="portimage" src="assets/images/lorempixel-5.jpg" />
+
+					<h4 id="rpg"> RPG Game </h4>
+					<img class="portimage" src="assets/images/lorempixel-3.jpg" />
+
+					<h4> Trivia Game </h4>
+					<img class="portimage" src="assets/images/lorempixel-1.jpg" />
+
+					<h6 id="rutgers"> Rutgers Info Widget </h6>
+					<img class="portimage" src="assets/images/lorempixel-4.jpg" />
+
+					<h6 id="rps"> Rock Papper Scissors </h6>
+					<img class="portimage" src="assets/images/lorempixel.jpg" />
+				</div>
