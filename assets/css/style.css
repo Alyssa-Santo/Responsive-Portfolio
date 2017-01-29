@@ -509,21 +509,18 @@ header {
 
 #centerbox{
 		width: 100%;
-		margin-left: 10px;
+		margin-left: 25px;
 		margin-right: 0px;
 }
 
 #connect{
 	width:440px;
 	margin-left: 0px;
-	margin-right: -10px;
+	margin-right: -25px;
 	margin-top: 5px;
 
 }
 
-.grid {
-
-}
 
 #navnames {
 	top: 85px;
